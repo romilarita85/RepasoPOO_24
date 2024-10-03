@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj": {}
+    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj",
         "projectName": "BibliotecaDeEstudiantes",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeEstudiantes\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeEstudiantes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj",
         "projectName": "TesteoEstudiante",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteEstudiante\\TesteoEstudiante.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteEstudiante\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteEstudiante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj"
+              "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj": {
+                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeEstudiantes\\BibliotecaDeEstudiantes.csproj"
               }
             }
           }

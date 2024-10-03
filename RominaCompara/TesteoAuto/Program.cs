@@ -25,7 +25,7 @@ namespace TesteoAuto
             Console.WriteLine("El auto agoto su combustible");
             Console.WriteLine($"Logro hacer {repeticiones} repeticiones");
             
-            // usando metodo de instancia
+            // Usando metodo de instancia
             if (auto1.CompararAuto(auto2)) 
             {
                 Console.WriteLine("Son iguales");
@@ -34,7 +34,8 @@ namespace TesteoAuto
             {
                 Console.WriteLine("Son distintos");
             }
-            //usando metodo estatico
+
+            //Usando metodo estatico
             if (Auto.CompararAutos(auto1,auto2))
             {
                 Console.WriteLine("Son iguales");
@@ -43,10 +44,21 @@ namespace TesteoAuto
             {
                 Console.WriteLine("Son distintos");
             }
+
             Console.WriteLine(Auto.GetNacionalidad());
 
-            auto1.
+            //Usando metodo estatico con CompararAuto con compareTo
+            int retorno = Auto.CompararAutosPorMarca(auto1,auto2);
+            Console.WriteLine(retorno);
 
+            //Usando metodo estatico SetNacionalidad
+
+            Console.WriteLine(Auto.GetNacionalidad());
+            Console.WriteLine("******Modificando el atributo static (nacionalidad) ******");
+            Auto.SetNacionalidad("Alemana");
+
+            Console.WriteLine($"La nueva nacionalidad es: {Auto.GetNacionalidad()}");
+           
         }
     }
 }

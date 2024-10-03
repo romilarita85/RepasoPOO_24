@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteoBoligrafo\\TesteoBoligrafo.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoBoligrafo\\TesteoBoligrafo.csproj",
       "projectName": "TesteoBoligrafo",
-      "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteoBoligrafo\\TesteoBoligrafo.csproj",
+      "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoBoligrafo\\TesteoBoligrafo.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteoBoligrafo\\obj\\",
+      "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoBoligrafo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeBoligrafos\\BibliotecaDeBoligrafos.csproj": {
-              "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeBoligrafos\\BibliotecaDeBoligrafos.csproj"
+            "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeBoligrafos\\BibliotecaDeBoligrafos.csproj": {
+              "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeBoligrafos\\BibliotecaDeBoligrafos.csproj"
             }
           }
         }

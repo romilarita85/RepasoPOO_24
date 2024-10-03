@@ -46,10 +46,12 @@ namespace BibliotecaDeAutos
             return Auto.nacionalidad;
         }
 
-        public static void SetNacionalida(string nacionalidad) 
+        public static void SetNacionalidad(string nacionalidad) 
         {
             Auto.nacionalidad = nacionalidad;
         }
+     
+
         public string GetMarca() 
         {
             return this.marca;
@@ -102,12 +104,14 @@ namespace BibliotecaDeAutos
         public bool CompararAuto(Auto autoComparar)
         {//bool me va a decir si es el auto o no
             bool sonIguales = false;
+
             if (autoComparar.marca == this.marca) 
             {
                 sonIguales = true;
             }
             return sonIguales;
         }
+        //Metodo publico estatico para comparar si mi auto1 es igual a mi auto2
         public static bool CompararAutos(Auto a1, Auto a2) 
         {
             bool sonIguales = false;
@@ -116,6 +120,31 @@ namespace BibliotecaDeAutos
                 sonIguales = true;  
             }
             return sonIguales;
+        }
+        //Metodo estatico usando comparaTo para compar auto1 y auto2: Forma larga**********************
+        //public static int CompararAutosPorMarca(Auto a1, Auto a2) //le paso las dos instancias con las q vamos a trabajar
+        //{//Comparo dos Strings
+        //    int sonIguales = -1;//si estan desordenadas (dando por defecto valor)
+
+        //    if (a1.marca == a2.marca)
+        //    {
+        //        sonIguales = 0;//si son iguales devuelve cero
+        //    }
+        //    else 
+        //    {
+        //        if (a1.marca.CompareTo(a2.marca) == 1)
+        //        {//si la primera alfabeticamente es mayor q la segunda
+        //            sonIguales = 1;//oredenadas alfabeticamente
+        //        }
+        //    }
+        //    return sonIguales;
+
+        //}
+
+        //Metodo estatico usando comparaTo: Forma corta*********************
+        public static int CompararAutosPorMarca(Auto a1, Auto a2) //le paso las dos instancias con las q vamos a trabajar
+        {
+            return a1.marca.CompareTo(a2.marca);
         }
     }
 }

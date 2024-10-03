@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B018097E-B299-425B-AC86-652D5FB40A9B}|BibliotecaDeAutos\\BibliotecaDeAutos.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasoexamenpoo\\rominacompara\\bibliotecadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B018097E-B299-425B-AC86-652D5FB40A9B}|BibliotecaDeAutos\\BibliotecaDeAutos.csproj|solutionrelative:bibliotecadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}|TesteoAuto\\TesteoAuto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\testeoauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}|TesteoAuto\\TesteoAuto.csproj|solutionrelative:testeoauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}|TesteoAuto\\TesteoAuto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasoexamenpoo\\rominacompara\\testeoauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}|TesteoAuto\\TesteoAuto.csproj|solutionrelative:testeoauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B018097E-B299-425B-AC86-652D5FB40A9B}|BibliotecaDeAutos\\BibliotecaDeAutos.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\bibliotecadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B018097E-B299-425B-AC86-652D5FB40A9B}|BibliotecaDeAutos\\BibliotecaDeAutos.csproj|solutionrelative:bibliotecadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteoAuto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoAuto\\Program.cs",
               "RelativeDocumentMoniker": "TesteoAuto\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\TesteoAuto\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoAuto\\Program.cs",
               "RelativeToolTip": "TesteoAuto\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T23:49:11.656Z",
               "IsPinned": true,
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeAutos\\Auto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeAutos\\Auto.cs",
               "RelativeDocumentMoniker": "BibliotecaDeAutos\\Auto.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoExamenPOO\\RominaCompara\\BibliotecaDeAutos\\Auto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeAutos\\Auto.cs",
               "RelativeToolTip": "BibliotecaDeAutos\\Auto.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwD0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T23:50:11.508Z",
               "EditorCaption": ""
