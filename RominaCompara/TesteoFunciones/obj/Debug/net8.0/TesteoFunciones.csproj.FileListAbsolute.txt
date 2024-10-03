@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\bin\Debug\net8.0\TesteoFunciones.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\bin\Debug\net8.0\TesteoFunciones.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\bin\Debug\net8.0\TesteoFunciones.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\bin\Debug\net8.0\TesteoFunciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\bin\Debug\net8.0\TesteoFunciones.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\refint\TesteoFunciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\TesteoFunciones.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\TesteoFunciones\obj\Debug\net8.0\ref\TesteoFunciones.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteEstudiante/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeEstudiantes": "1.0.0"
+        },
+        "runtime": {
+          "TesteEstudiante.dll": {}
+        }
+      },
+      "BibliotecaDeEstudiantes/1.0.0": {
+        "runtime": {
+          "BibliotecaDeEstudiantes.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteEstudiante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeEstudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

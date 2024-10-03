@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\bin\Debug\net8.0\BibliotecaDeEstudiantes.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\bin\Debug\net8.0\BibliotecaDeEstudiantes.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\bin\Debug\net8.0\BibliotecaDeEstudiantes.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\BibliotecaDeEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\BibliotecaDeEstudiantes.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\BibliotecaDeEstudiantes.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\BibliotecaDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\BibliotecaDeEstudiantes.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\refint\BibliotecaDeEstudiantes.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\BibliotecaDeEstudiantes.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeEstudiantes\obj\Debug\net8.0\ref\BibliotecaDeEstudiantes.dll
