@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}|TesteoAuto\\TesteoAuto.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\testeoauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}|TesteoAuto\\TesteoAuto.csproj|solutionrelative:testeoauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC8709C1-D887-4716-B93B-C15AA28623C4}|TesteroTelevisor\\TesteroTelevisor.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\testerotelevisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8709C1-D887-4716-B93B-C15AA28623C4}|TesteroTelevisor\\TesteroTelevisor.csproj|solutionrelative:testerotelevisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}|BibliotecaTelevisor\\BibliotecaTelevisor.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\bibliotecatelevisor\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}|BibliotecaTelevisor\\BibliotecaTelevisor.csproj|solutionrelative:bibliotecatelevisor\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A4B4C-81F2-48D6-9BA4-CD7DBF70A7CC}|BibliotecaDeBoligrafos\\BibliotecaDeBoligrafos.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\bibliotecadeboligrafos\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A4B4C-81F2-48D6-9BA4-CD7DBF70A7CC}|BibliotecaDeBoligrafos\\BibliotecaDeBoligrafos.csproj|solutionrelative:bibliotecadeboligrafos\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B018097E-B299-425B-AC86-652D5FB40A9B}|BibliotecaDeAutos\\BibliotecaDeAutos.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\bibliotecadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,22 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoAuto\\Program.cs",
-              "RelativeDocumentMoniker": "TesteoAuto\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteoAuto\\Program.cs",
-              "RelativeToolTip": "TesteoAuto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T23:49:11.656Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -45,12 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Televisor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaTelevisor\\Televisor.cs",
+              "RelativeDocumentMoniker": "BibliotecaTelevisor\\Televisor.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaTelevisor\\Televisor.cs",
+              "RelativeToolTip": "BibliotecaTelevisor\\Televisor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:03:39.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteroTelevisor\\Program.cs",
+              "RelativeDocumentMoniker": "TesteroTelevisor\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\TesteroTelevisor\\Program.cs",
+              "RelativeToolTip": "TesteroTelevisor\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:03:14.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeBoligrafos\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeBoligrafos\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeBoligrafos\\Boligrafo.cs",
+              "RelativeToolTip": "BibliotecaDeBoligrafos\\Boligrafo.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:59:28.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Auto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeAutos\\Auto.cs",
               "RelativeDocumentMoniker": "BibliotecaDeAutos\\Auto.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\BibliotecaDeAutos\\Auto.cs",
               "RelativeToolTip": "BibliotecaDeAutos\\Auto.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAowDQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwJEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T23:50:11.508Z",
               "EditorCaption": ""

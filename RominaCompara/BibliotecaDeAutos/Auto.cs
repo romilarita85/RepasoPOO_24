@@ -85,7 +85,8 @@ namespace BibliotecaDeAutos
 
         //E. El metodo Avanzar(int km) que retornara un booleano para informar si pudo recorrer
         //o no la cantidad de kilometros recibo por parametro, tener en cuenta que para poder
-        //avanzar se debe tener conbustible y por cada litro de combustible se pueden 10km.
+        //avanzar se debe tener conbustible
+        //y por cada litro de combustible se pueden 10km.
         public bool Avanzar(int km) 
         {
             bool pudoRecorrer = false;

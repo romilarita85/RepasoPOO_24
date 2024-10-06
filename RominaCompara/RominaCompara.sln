@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeAutos", "BibliotecaDeAutos\BibliotecaDeAutos.csproj", "{B018097E-B299-425B-AC86-652D5FB40A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDeAutos", "BibliotecaDeAutos\BibliotecaDeAutos.csproj", "{B018097E-B299-425B-AC86-652D5FB40A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteoAuto", "TesteoAuto\TesteoAuto.csproj", "{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteoAuto", "TesteoAuto\TesteoAuto.csproj", "{2CF6F2F4-E0AE-4EF5-9887-6EE59F69C27C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteoBoligrafo", "TesteoBoligrafo\TesteoBoligrafo.csproj", "{8CDAA29B-7679-48EA-95A6-E3602D67C5AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteoBoligrafo", "TesteoBoligrafo\TesteoBoligrafo.csproj", "{8CDAA29B-7679-48EA-95A6-E3602D67C5AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeBoligrafos", "BibliotecaDeBoligrafos\BibliotecaDeBoligrafos.csproj", "{0E7A4B4C-81F2-48D6-9BA4-CD7DBF70A7CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDeBoligrafos", "BibliotecaDeBoligrafos\BibliotecaDeBoligrafos.csproj", "{0E7A4B4C-81F2-48D6-9BA4-CD7DBF70A7CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteoFunciones", "TesteoFunciones\TesteoFunciones.csproj", "{F4DDF0BA-0BF0-4B79-99ED-F4BF56E215C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteoFunciones", "TesteoFunciones\TesteoFunciones.csproj", "{F4DDF0BA-0BF0-4B79-99ED-F4BF56E215C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeEstudiantes", "BibliotecaDeEstudiantes\BibliotecaDeEstudiantes.csproj", "{F713BE8E-7821-4DEE-A470-E72E82C42E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDeEstudiantes", "BibliotecaDeEstudiantes\BibliotecaDeEstudiantes.csproj", "{F713BE8E-7821-4DEE-A470-E72E82C42E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteoEstudiante", "TesteEstudiante\TesteoEstudiante.csproj", "{9CFF2CF5-8B43-494A-8A23-D6D22A1DC08E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteoEstudiante", "TesteEstudiante\TesteoEstudiante.csproj", "{9CFF2CF5-8B43-494A-8A23-D6D22A1DC08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteroTelevisor", "TesteroTelevisor\TesteroTelevisor.csproj", "{AC8709C1-D887-4716-B93B-C15AA28623C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaTelevisor", "BibliotecaTelevisor\BibliotecaTelevisor.csproj", "{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{9CFF2CF5-8B43-494A-8A23-D6D22A1DC08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CFF2CF5-8B43-494A-8A23-D6D22A1DC08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CFF2CF5-8B43-494A-8A23-D6D22A1DC08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8709C1-D887-4716-B93B-C15AA28623C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8709C1-D887-4716-B93B-C15AA28623C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8709C1-D887-4716-B93B-C15AA28623C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8709C1-D887-4716-B93B-C15AA28623C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8B9E98-4E9F-4F10-9AB6-30D68CEF967D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

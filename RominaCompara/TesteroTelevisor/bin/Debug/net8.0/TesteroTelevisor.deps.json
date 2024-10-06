@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteroTelevisor/1.0.0": {
+        "dependencies": {
+          "BibliotecaTelevisor": "1.0.0"
+        },
+        "runtime": {
+          "TesteroTelevisor.dll": {}
+        }
+      },
+      "BibliotecaTelevisor/1.0.0": {
+        "runtime": {
+          "BibliotecaTelevisor.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteroTelevisor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaTelevisor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

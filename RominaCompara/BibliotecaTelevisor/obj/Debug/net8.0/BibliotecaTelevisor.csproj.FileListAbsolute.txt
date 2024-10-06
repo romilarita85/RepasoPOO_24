@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\bin\Debug\net8.0\BibliotecaTelevisor.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\bin\Debug\net8.0\BibliotecaTelevisor.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\bin\Debug\net8.0\BibliotecaTelevisor.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\refint\BibliotecaTelevisor.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\BibliotecaTelevisor.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaTelevisor\obj\Debug\net8.0\ref\BibliotecaTelevisor.dll
