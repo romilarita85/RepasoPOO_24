@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteoEmpresa/1.0.0": {
+        "dependencies": {
+          "BibliotecaEmpresa": "1.0.0"
+        },
+        "runtime": {
+          "TesteoEmpresa.dll": {}
+        }
+      },
+      "BibliotecaEmpresa/1.0.0": {
+        "runtime": {
+          "BibliotecaEmpresa.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteoEmpresa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaEmpresa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

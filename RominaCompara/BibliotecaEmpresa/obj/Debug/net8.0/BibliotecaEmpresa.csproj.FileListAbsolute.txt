@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\bin\Debug\net8.0\BibliotecaEmpresa.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\bin\Debug\net8.0\BibliotecaEmpresa.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\bin\Debug\net8.0\BibliotecaEmpresa.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\refint\BibliotecaEmpresa.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\BibliotecaEmpresa.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaEmpresa\obj\Debug\net8.0\ref\BibliotecaEmpresa.dll

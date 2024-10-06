@@ -32,7 +32,7 @@ namespace TesteroTelevisor
 
              tele1.Marca = "Sony";
              tele1.Pulgadas = 40;
-             tele1.Volumen = 20;
+             tele1.Volumen = 30;
              tele1.EstaEncendido = false;
 
             
@@ -41,14 +41,24 @@ namespace TesteroTelevisor
             Console.WriteLine(tele2.MostrarTelevisor());
             // -Encender y Apagar:
             //Usa el método Encender() para alternar el estado y muestra el resultado.
-            Console.WriteLine(tele1.Encender());
-            Console.WriteLine(tele2.Encender());
+            tele1.Encender();
+            Console.WriteLine(tele1.MostrarTelevisor());
+            tele2.Encender();
+            Console.WriteLine(tele2.MostrarTelevisor());
 
             //Usar metodos subir y bajar volumen
-            Console.WriteLine(tele1.SubirVolumen());
-            Console.WriteLine(tele1.BajarVolumen());
-            Console.WriteLine(tele2.SubirVolumen());
-            Console.WriteLine(tele2.BajarVolumen());
+            for (int i = 0; i < 10; i++)
+            {
+                tele1.SubirVolumen();//30+10 = 40
+            }
+            Console.WriteLine($"Subio el volumen en unos: {tele1.GetVolumen()}");//40
+            
+            for (int i = 0; i < 5; i++)
+            {
+                tele1.BajarVolumen();//40 - 5 = 36
+            }
+          
+            Console.WriteLine($"Bajo el volumen en : {tele1.GetVolumen()}");
         }
     }
 }
