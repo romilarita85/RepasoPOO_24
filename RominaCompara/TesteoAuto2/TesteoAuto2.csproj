@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaDeAuto2\BibliotecaDeAuto2.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -10,13 +10,27 @@
 //Constructor:
 
 //Un constructor que reciba patente, cantidadRuedas, tipo y cantidadCombustible (con un valor por defecto para el color).
+
 //Métodos Setters y Getters:
 
-//SetTipo(string tipo): establece el tipo de auto, con validación para evitar strings vacíos.
-//SetCantCombustible(double cant): establece la cantidad de combustible, asegurándose de que esté entre 0 y 150 litros.
-//SetColor(Color color): establece el color del auto.
-//GetPatente(): devuelve la patente.
-//GetCantCombustible(): devuelve la cantidad de combustible.
+//*SetTipo(string tipo): establece el tipo de auto, con validación para evitar strings vacíos.
+// Este método debe realizar las siguientes validaciones:
+//Acepta un parámetro de tipo string llamado tipo.
+//Verifica que el parámetro no sea nulo ni una cadena vacía.
+//Si la validación es exitosa, asigna el valor a la propiedad tipo del objeto y devuelve true.
+//Si la validación falla, no realiza ninguna asignación y devuelve false.
+
+
+//*SetCantCombustible(double cant): establece la cantidad de combustible, asegurándose de que esté entre 0 y 150 litros.
+//Acepta un valor double que debe ser positivo y menor que 150.
+//Devuelve true si la cantidad se establece correctamente; de lo contrario, devuelve false.
+
+//*SetColor(Color color): establece el color del auto.
+
+//*GetPatente(): devuelve la patente.
+
+//*GetCantCombustible(): devuelve la cantidad de combustible.
+
 //Métodos:
 
 //Conducir(double distancia): permite al auto conducir una cierta distancia, descontando el combustible correspondiente. Retorna un booleano indicando si se pudo realizar la acción.
@@ -70,19 +84,48 @@ namespace BibliotecaDeAutos1
         {
             return this.cantRuedas;
         }
-        public void SetTipo(string tipo) 
-        { 
-            this.tipo = tipo;   
+        //*SetTipo(string tipo): establece el tipo de auto, con validación para evitar strings vacíos.
+        // Este método debe realizar las siguientes validaciones:
+        //-Acepta un parámetro de tipo string llamado tipo.
+        //-Verifica que el parámetro no sea nulo ni una cadena vacía.
+        //-Si la validación es exitosa, asigna el valor a la propiedad tipo del objeto y devuelve true.
+        //Si la validación falla, no realiza ninguna asignación y devuelve false.
+        public bool SetTipo(string tipo)
+        {
+            bool valor ;
+            if (string.IsNullOrEmpty(tipo))
+            {
+                valor = false;
+            }
+            else 
+            {
+                this.tipo = tipo;
+                valor = true;
+            }
+
+            return valor;
         }
         public string GetTipo() 
         {
             return this.tipo;
         }
-        public void SetCantCombustible(double cantidad) 
+   
+        //*SetCantCombustible(double cant): establece la cantidad de combustible, asegurándose de que esté entre 0 y 150 litros.
+        //Acepta un valor double que debe ser positivo y menor que 150.
+        //Devuelve true si la cantidad se establece correctamente; de lo contrario, devuelve false.
+        public bool SetCantCombustible(double cantidad) 
         {
-            this.cantCombustible = cantidad;
+            bool ok = false;
+            if (cantidad > 0 && cantidad < 150) 
+            {
+                this.cantCombustible = cantidad;
+                ok = true;
+            }
+            return ok;
+           
         
         }
+        
         public double GetCantCombustible()
         {
             return this.cantCombustible;
