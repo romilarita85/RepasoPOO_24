@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿//Clase 25/09/24
+using System.Diagnostics;
 using System.Text.RegularExpressions;
 using System.Text;
 using System.Reflection.Metadata.Ecma335;
@@ -84,7 +85,7 @@ namespace BibliotecaTelevisor
         {
             string cadena;
 
-            cadena = $"Marca: {this.marca}\n - Pulgadas: {this.pulgadas}\n - Volumen:  {this.volumen}\n - Estado: {this.estaEncendido}\n"; 
+            cadena = $"Marca: {this.marca}\n Pulgadas: {this.pulgadas}\n Volumen:  {this.volumen}\n Estado: {this.estaEncendido}"; 
             
             return cadena;
         }

@@ -37,15 +37,19 @@ namespace TesteroTelevisor
 
             
             tele2.SetMarca("Bageo");
+            tele2.SetPulgadas(50);
+            tele2.Volumen = 30;
+            tele2.EstaEncendido= false;
+
             Console.WriteLine(tele1.MostrarTelevisor());
             Console.WriteLine(tele2.MostrarTelevisor());
             // -Encender y Apagar:
             //Usa el método Encender() para alternar el estado y muestra el resultado.
             tele1.Encender();
-            Console.WriteLine(tele1.MostrarTelevisor());
+            Console.WriteLine($"Estado de la tele1: {tele1.EstaEncendido}");
             tele2.Encender();
-            Console.WriteLine(tele2.MostrarTelevisor());
-
+            Console.WriteLine($"Estado de la tele2: {tele2.EstaEncendido}");
+      
             //Usar metodos subir y bajar volumen
             for (int i = 0; i < 10; i++)
             {
@@ -59,6 +63,9 @@ namespace TesteroTelevisor
             }
           
             Console.WriteLine($"Bajo el volumen en : {tele1.GetVolumen()}");
+
+            //string nombre = "Agatha";
+            //Console.WriteLine(nombre.Length);    
         }
     }
 }

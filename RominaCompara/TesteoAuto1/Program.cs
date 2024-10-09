@@ -19,14 +19,29 @@ namespace TesteoAuto1
     {
         static void Main(string[] args)
         {
-            Auto miAuto = new Auto("",1,"",0);
+            Auto miAuto = new Auto();
+            Auto miAuto2 = new Auto();
             
-            miAuto.SetPatente("AA456CV");
-            miAuto.SetCantRuedas(4);
+            miAuto.Patente = "AA456CV";
+            miAuto.CantidadRuedas = 3;
             miAuto.SetTipo("Sedan");
             miAuto.SetColor(Color.DarkGreen);
+
             Console.WriteLine(miAuto.MostrarInformacion());
-        
+            Console.WriteLine(miAuto.GetTipo());
+            double cantidad = 30 ;
+            if (miAuto2.SetCantCombustible(cantidad))
+            {
+                Console.WriteLine("Se pudo ingresar la cantidad de combustible");
+
+            }
+            else 
+            {
+                Console.WriteLine("No se pudo ingresar la cantidad de  combustible");
+
+            }
+
+
         }
     }
 }

@@ -9,3 +9,15 @@ C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\R
 C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\refint\BibliotecaDeBoligrafos.dll
 C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.pdb
 C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoExamenPOO\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\ref\BibliotecaDeBoligrafos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\bin\Debug\net8.0\BibliotecaDeBoligrafos.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\bin\Debug\net8.0\BibliotecaDeBoligrafos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\bin\Debug\net8.0\BibliotecaDeBoligrafos.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\refint\BibliotecaDeBoligrafos.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\BibliotecaDeBoligrafos.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\BibliotecaDeBoligrafos\obj\Debug\net8.0\ref\BibliotecaDeBoligrafos.dll

@@ -46,7 +46,7 @@ namespace BibliotecaEmpresa
 
         public static int CompararPorRazonSocial2(Empresa e1, Empresa e2)
         {
-            int sonIguales = -1;
+            int sonIguales = -1;//no son iguales
             if (e1.razonSocial == e2.razonSocial)
             {
                 sonIguales = 1;

@@ -233,7 +233,7 @@ namespace BibliotecaDeBoligrafos
         //● escribir(texto)
         //- Deberá validar si el bolígrafo cuenta con la tinta suficiente para
         //escribir el texto: la tinta a ser gastada corresponde a la cantidad de
-        //caracteres (Ej: el texto “hola” gasta 4 de tinta, si el trazo es fino. Si es
+        //caracteres (Ej: el texto “hola” gasta 4 (espacios) de tinta, si el trazo es fino. Si es
         //grueso gasta el doble )
         //- En caso de contar con la tinta suficiente, deberá restarse la cantidad
         //del atributo cantidadTinta y devolver una cadena con el texto recibido
@@ -252,7 +252,8 @@ namespace BibliotecaDeBoligrafos
             }
             if (cantidadTinta > tintaSuficiente)
             {
-                cantidadTinta -= tintaSuficiente;       
+                cantidadTinta -= tintaSuficiente;
+                cadena = "Alcanzo la tinta";
             }
             else 
             {
@@ -260,25 +261,7 @@ namespace BibliotecaDeBoligrafos
             }
             return cadena;
         }
-        //public string Escribir(string texto) 
-        //{
-        //    string cadena = "No alcanza la tinta";
-        //    int tintaSuficiente = texto.Length; // si el trazo es fino
-
-        //    if (grosorPunta == "Grueso") 
-        //    {
-        //        tintaSuficiente = texto.Length * 2;
-        //    }
-        //    if (cantidadTinta > tintaSuficiente)
-        //    {
-        //        cantidadTinta-=tintaSuficiente; // cantidadTinta = cantidadTinta - tintaSuficiente;
-
-        //        cadena = "Alcanzo la tinta";
-        //    }
-
-        //    return cadena;
-
-        //}
+      
         //● recargar(cantidad)
 
         //-Deberá sumarse la cantidad de tinta recibida por parámetro al
@@ -293,13 +276,13 @@ namespace BibliotecaDeBoligrafos
         //-Si la cantidad recargada excede el máximo deberá retornarse la
         //cadena “Se recargó la lapicera y sobró __ cantidad de tinta. (Rellenar
         //el espacio con el valor que se haya excedido)
-        public string Recargar(int cantidad) 
+        public string Recargar(int cantidadRecibida) 
         {
             string cadena = string.Empty;
-            int tintaRecargada = 0;
-            if (tintaRecargada < capacidadTintaMaxima)
+            int tintaRecargada = cantidadRecibida + cantidadTinta;
+            if (tintaRecargada < capacidadTintaMaxima && capacidadTintaMaxima < 100) 
             {
-                capacidadTintaMaxima += tintaRecargada;
+                this.cantidadTinta= tintaRecargada;
                 cadena = "Lapicera recargada";
             }
             else 
@@ -310,6 +293,7 @@ namespace BibliotecaDeBoligrafos
             }
             return cadena;
         }
+      
         public string MostrarBoligrafo() 
         {
             StringBuilder sb = new StringBuilder();

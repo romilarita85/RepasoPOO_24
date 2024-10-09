@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaDeAuto2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c194ad2d6c3cce4dcd4955ccc4c21c8fb684d27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d250fd9758404deab11635434fbc0c5337d8a4de")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaDeAuto2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaDeAuto2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

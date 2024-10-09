@@ -34,133 +34,247 @@
 //Métodos:
 
 //Conducir(double distancia): permite al auto conducir una cierta distancia, descontando el combustible correspondiente. Retorna un booleano indicando si se pudo realizar la acción.
+//.Por cada litro pudo hacer 4 kilometros
 //MostrarInformacion(): devuelve un string con la información del auto (patente, tipo, color, cantidad de ruedas y cantidad de combustible).
 
+using System.Diagnostics;
+using System.Diagnostics.CodeAnalysis;
 using System.Drawing;
+using System.Text;
 
 namespace BibliotecaDeAutos1
 {
     public class Auto
     {
+        #region Ejercicio Resuelto
+        //private string patente;
+        //private int cantRuedas;
+        //private string tipo;
+        //private double cantCombustible;
+        //private Color color;
+
+        //public Auto(string patente, int cantRuedas, string tipo, double cantCombustible)
+        //{
+        //    this.patente = patente;
+        //    this.cantRuedas = cantRuedas;
+        //    this.tipo = tipo;
+        //    this.cantCombustible = cantCombustible;
+        //    this.color = Color.White;
+        //}
+
+        //public void SetPatente(string valor)
+        //{
+        //    this.patente = valor;
+        //}
+        //public string GetPatente()
+        //{
+        //    return this.patente;
+        //}
+        //public string Patente
+        //{
+        //    get
+        //    {
+        //        return this.patente;
+        //    }
+        //    set
+        //    {
+        //        patente = value;
+        //    }
+        //}
+        //public void SetCantRuedas(int cantidad)
+        //{
+        //    this.cantRuedas = cantidad;
+        //}
+        //public int GetCantRuedas() 
+        //{
+        //    return this.cantRuedas;
+        //}
+        ////*SetTipo(string tipo): establece el tipo de auto, con validación para evitar strings vacíos.
+        //// Este método debe realizar las siguientes validaciones:
+        ////-Acepta un parámetro de tipo string llamado tipo.
+        ////-Verifica que el parámetro no sea nulo ni una cadena vacía.
+        ////-Si la validación es exitosa, asigna el valor a la propiedad tipo del objeto y devuelve true.
+        ////Si la validación falla, no realiza ninguna asignación y devuelve false.
+        //public bool SetTipo(string tipo)
+        //{
+        //    bool valor ;
+        //    if (string.IsNullOrEmpty(tipo))
+        //    {
+        //        valor = false;
+        //    }
+        //    else 
+        //    {
+        //        this.tipo = tipo;
+        //        valor = true;
+        //    }
+
+        //    return valor;
+        //}
+        //public string GetTipo() 
+        //{
+        //    return this.tipo;
+        //}
+
+        ////*SetCantCombustible(double cant): establece la cantidad de combustible, asegurándose de que esté entre 0 y 150 litros.
+        ////Acepta un valor double que debe ser positivo y menor que 150.
+        ////Devuelve true si la cantidad se establece correctamente; de lo contrario, devuelve false.
+        //public bool SetCantCombustible(double cantidad) 
+        //{
+        //    bool ok = false;
+        //    if (cantidad > 0 && cantidad < 150) 
+        //    {
+        //        this.cantCombustible = cantidad;
+        //        ok = true;
+        //    }
+        //    return ok;
+
+
+        //}
+
+        //public double GetCantCombustible()
+        //{
+        //    return this.cantCombustible;
+        //}
+        //public void SetColor(Color color)
+        //{
+        //    this.color = color;
+
+        //}
+        //public Color GetColor()
+        //{
+        //    return this.color;
+        //}
+
+        ////Métodos:
+        ////Conducir(double distancia): permite al auto conducir una cierta distancia, descontando el combustible correspondiente.
+        ////Retorna un booleano indicando si se pudo realizar la acción.Por cada litro pudo hacer 4 kilometros
+        //public bool Conducir(double distancia) 
+        //{
+        //    bool pudo = false;
+        //    double consumo;
+        //    consumo = distancia / 4;
+        //    if (cantCombustible > consumo) 
+        //    {
+        //        cantCombustible -= consumo;
+        //        pudo = true;
+        //    }
+        //    return pudo;
+        //}
+        ////MostrarInformacion(): devuelve un string con la información del auto (patente, tipo, color, cantidad de ruedas y cantidad de combustible).
+        //public string MostrarInformacion() 
+        //{
+        //    string mensaje;
+        //    mensaje = $"Patente: {this.patente}\n Tipo: {this.tipo}\n Color: {this.color}\n Cantidad de ruedas: {this.cantRuedas} \n Cantidad de combustible: {this.cantCombustible}\n";
+        //    return mensaje;
+        //}
+        #endregion
         private string patente;
-        private int cantRuedas;
+        private int cantidadRuedas;
         private string tipo;
         private double cantCombustible;
         private Color color;
 
-        public Auto(string patente, int cantRuedas, string tipo, double cantCombustible)
+        public Auto() 
+        { 
+        }
+        public Auto(string patente, int cantidadRuedas, string tipo, double cantCombustible)
         {
             this.patente = patente;
-            this.cantRuedas = cantRuedas;
+            this.cantidadRuedas = cantidadRuedas;
             this.tipo = tipo;
             this.cantCombustible = cantCombustible;
             this.color = Color.White;
         }
 
-        public void SetPatente(string valor)
-        {
-            this.patente = valor;
-        }
-        public string GetPatente()
-        {
-            return this.patente;
-        }
-        public string Patente
-        {
-            get
-            {
-                return this.patente;
-            }
-            set
-            {
-                patente = value;
-            }
-        }
-        public void SetCantRuedas(int cantidad)
-        {
-            this.cantRuedas = cantidad;
-        }
-        public int GetCantRuedas() 
-        {
-            return this.cantRuedas;
-        }
         //*SetTipo(string tipo): establece el tipo de auto, con validación para evitar strings vacíos.
         // Este método debe realizar las siguientes validaciones:
-        //-Acepta un parámetro de tipo string llamado tipo.
-        //-Verifica que el parámetro no sea nulo ni una cadena vacía.
-        //-Si la validación es exitosa, asigna el valor a la propiedad tipo del objeto y devuelve true.
+        //Acepta un parámetro de tipo string llamado tipo.
+        //Verifica que el parámetro no sea nulo ni una cadena vacía.
+        //Si la validación es exitosa, asigna el valor a la propiedad tipo del objeto y devuelve true.
         //Si la validación falla, no realiza ninguna asignación y devuelve false.
-        public bool SetTipo(string tipo)
+        public bool SetTipo(string tipo) 
         {
-            bool valor ;
-            if (string.IsNullOrEmpty(tipo))
-            {
-                valor = false;
-            }
-            else 
+            bool exito = false;
+            if (string.IsNullOrEmpty(tipo)) 
             {
                 this.tipo = tipo;
-                valor = true;
+                exito = true;
             }
-
-            return valor;
+            return exito;
         }
         public string GetTipo() 
         {
             return this.tipo;
         }
-   
         //*SetCantCombustible(double cant): establece la cantidad de combustible, asegurándose de que esté entre 0 y 150 litros.
         //Acepta un valor double que debe ser positivo y menor que 150.
         //Devuelve true si la cantidad se establece correctamente; de lo contrario, devuelve false.
         public bool SetCantCombustible(double cantidad) 
-        {
-            bool ok = false;
-            if (cantidad > 0 && cantidad < 150) 
+        { 
+            bool exito = false;
+            if (cantidad >0 && cantidad < 150) 
             {
                 this.cantCombustible = cantidad;
-                ok = true;
+                exito = true;
             }
-            return ok;
-           
-        
+            return exito;
         }
-        
-        public double GetCantCombustible()
+
+
+        //*SetColor(Color color): establece el color del auto.
+        public void SetColor(Color color) 
+        {
+            this.color = color;
+        }
+        //*GetPatente(): devuelve la patente.
+
+        public string Patente 
+        {
+            get 
+            {   
+                return this.patente;
+            }
+            set 
+            { 
+                this.patente = value; 
+            } 
+        }
+
+        public int CantidadRuedas { get => cantidadRuedas; set => cantidadRuedas = value; }
+
+        //*GetCantCombustible(): devuelve la cantidad de combustible
+        public double GetCantCombustible() 
         {
             return this.cantCombustible;
         }
-        public void SetColor(Color color)
-        {
-            this.color = color;
-
-        }
-        public Color GetColor()
-        {
-            return this.color;
-        }
-
-        //Métodos:
         //Conducir(double distancia): permite al auto conducir una cierta distancia, descontando el combustible correspondiente.
-        //Retorna un booleano indicando si se pudo realizar la acción.Por cada litro pudo hacer 4 kilometros
-        public bool Conducir(double distancia) 
+        //Retorna un booleano indicando si se pudo realizar la acción..Por cada litro pudo hacer 4 kilometros
+        public bool Conducir(double distancia)
         {
-            bool pudo = false;
-            double consumo;
-            consumo = distancia / 4;
-            if (cantCombustible > consumo) 
+            bool sePudo = false;
+            double consumoComb; //combustible consumido
+            consumoComb = distancia / 4;
+            
+            if (cantCombustible > consumoComb) 
             {
-                cantCombustible -= consumo;
-                pudo = true;
+                cantCombustible -= consumoComb;
+                sePudo = true;
             }
-            return pudo;
+            return sePudo;
         }
-        //MostrarInformacion(): devuelve un string con la información del auto (patente, tipo, color, cantidad de ruedas y cantidad de combustible).
+        //MostrarInformacion(): devuelve un string con la información del auto (patente, tipo, color,
+        //cantidad de ruedas y cantidad de combustible).
         public string MostrarInformacion() 
         {
-            string mensaje;
-            mensaje = $"Patente: {this.patente}\n Tipo: {this.tipo}\n Color: {this.color}\n Cantidad de ruedas: {this.cantRuedas} \n Cantidad de combustible: {this.cantCombustible}\n";
-            return mensaje;
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Patente: {this.patente}");
+            sb.AppendLine($"cantidad de ruedas: {this.cantidadRuedas}");
+            sb.AppendLine($"Tipo: {this.tipo}");
+            sb.AppendLine($"Cantidad de combustible: {this.cantCombustible}");
+            sb.AppendLine($"Color: {color.Name}");
+
+            return sb.ToString();
         }
     }
 }
