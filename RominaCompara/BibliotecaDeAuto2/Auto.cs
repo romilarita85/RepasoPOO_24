@@ -100,7 +100,12 @@ namespace BibliotecaDeAuto2
                 this.cantCombustible = value; 
             } 
         }
-        public void SetCantCombustible(double cantidad) 
+        ////metodo ser de instancia
+        //public void SetCantCombustible(double cantidad) 
+        //{
+        //    this.cantCombustible = cantidad;
+        //}
+        public void SetCantCombustible(double cantidad)
         {
             this.cantCombustible = cantidad;
         }

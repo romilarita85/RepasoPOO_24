@@ -10,29 +10,31 @@ namespace TesteoBoligrafo
     {
         static void Main(string[] args)
         {
-            Boligrafo b1 = new Boligrafo("Fino",Color.Blue);
-            Boligrafo b2 = new Boligrafo("Grueso",Color.Red);
+            #region Ejercicio resuelto
+            //Boligrafo b1 = new Boligrafo("Fino",Color.Blue);
+            //Boligrafo b2 = new Boligrafo("Grueso",Color.Red);
 
-            Console.WriteLine(b1.MostrarInformacion());
-            Console.WriteLine(b2.MostrarInformacion());
+            //Console.WriteLine(b1.MostrarInformacion());
+            //Console.WriteLine(b2.MostrarInformacion());
 
-            Console.WriteLine($"Consuntando cantidad de tinta b1:{b1.GetCantidadTinta()}");
-            Console.WriteLine($"Consultando capacidad de tinta maxima de b1 {b1.GetCapTintaMaxima()}");
+            //Console.WriteLine($"Consuntando cantidad de tinta b1:{b1.GetCantidadTinta()}");
+            //Console.WriteLine($"Consultando capacidad de tinta maxima de b1 {b1.GetCapTintaMaxima()}");
 
-            b2.SetColor(Color.White);
-            b2.SetCapTinaMaxima(30);
-            b2.SetCantidadTinta(50);
+            //b2.SetColor(Color.White);
+            //b2.SetCapTinaMaxima(30);
+            //b2.SetCantidadTinta(50);
 
-            Console.WriteLine(b2.MostrarInformacion());
+            //Console.WriteLine(b2.MostrarInformacion());
 
-            string texto = b1.Escribir("Hola");
-            Console.WriteLine(texto);
+            //string texto = b1.Escribir("Hola");
+            //Console.WriteLine(texto);
 
-            string texto1 = b2.Escribir("Utilizar todos los métodos y mostrar los resultados por consola.");
-            Console.WriteLine(texto1);
+            //string texto1 = b2.Escribir("Utilizar todos los métodos y mostrar los resultados por consola.");
+            //Console.WriteLine(texto1);
 
-            Console.WriteLine(b1.Recargar(30));
-            Console.WriteLine(b2.Recargar(70));
+            //Console.WriteLine(b1.Recargar(30));
+            //Console.WriteLine(b2.Recargar(70));
+            #endregion 
 
         }
     }

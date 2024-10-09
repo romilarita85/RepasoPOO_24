@@ -7,17 +7,25 @@ using System.Threading.Tasks;
 //Utiliza la clase EstacionDeServicio para recargar combustible a los autos.
 //Implementa tanto un método estático como uno de instancia para llevar a cabo esta acción.
 //Interacción en Consola:
-//RecargarCombustible(Auto a, double cantCombustible )
+
 //El programa debe imprimir en la consola la información relevante sobre los autos antes y después de las modificaciones
 //y recargas de combustible.
 namespace BibliotecaDeAuto2
 {
-    public class EstacionDeServiciocs
+    //clase y metodo estatico
+    public static class EstacionDeServicio1
     {
-        public void RecargarCombustible(Auto a, double cantComb) 
+        public static void RecargarCombustible(Auto a1, double cantCombustible)
         {
-
-            a.SetCantCombustible(cantComb);
+            a1.SetCantCombustible(cantCombustible);
         }
     }
+    //Clase y metodo de instancia
+    //public class EstacionDeServicio1
+    //{
+    //    public void RecargarCombustible(Auto a1, double cantCombustible) 
+    //    {
+    //        a1.SetCantCombustible(cantCombustible);
+    //    }
+    //}
 }

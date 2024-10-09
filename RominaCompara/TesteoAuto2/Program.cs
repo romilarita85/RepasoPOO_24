@@ -81,6 +81,21 @@ namespace TesteoAuto2
             auto2.MostrarInfo();
             auto3.MostrarInfo();
             auto4.MostrarInfo();
+
+            //Usando Clase y metodo de instancia:
+            //Console.WriteLine($"Auto 1 antes de recargar combustible: {auto1.CantCombustible}");
+            ////creo una instancia del objeto estacion de servicio para usar su metodo
+            //EstacionDeServicio1 estacion1 = new EstacionDeServicio1();
+            //estacion1.RecargarCombustible(auto1,200);
+            //Console.WriteLine($"Auto 1 despues de recargar combustible: {auto1.CantCombustible}");
+
+            //Usando clase y metodo estatico:
+            Console.WriteLine($"Auto 1 antes de recargar combustible: {auto1.CantCombustible}");
+            EstacionDeServicio1.RecargarCombustible(auto1, 200);
+            Console.WriteLine($"Auto 1 despues de recargar combustible: {auto1.CantCombustible}");
+            Console.WriteLine($"Auto 2 despues de recargar combustible en Auto 1: {auto2.CantCombustible}");
+            Console.WriteLine($"Auto 3 despues de recargar combustible en Auto 1: {auto3.CantCombustible}");
+            Console.WriteLine($"Auto 4 despues de recargar combustible en Auto 1: {auto4.CantCombustible}");
         }
     }
 }
