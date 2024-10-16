@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CAF6ED-36A3-43ED-B12F-B650B2751DA3}|Vectores05\\Vectores05.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CAF6ED-36A3-43ED-B12F-B650B2751DA3}|Vectores05\\Vectores05.csproj|solutionrelative:vectores05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272427AB-EC4D-461E-8CFD-F6DED76F3FEE}|Vectores04\\Vectores04.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272427AB-EC4D-461E-8CFD-F6DED76F3FEE}|Vectores04\\Vectores04.csproj|solutionrelative:vectores04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074F7C59-7F36-4DED-89F3-FADCA1E526DD}|Vectores03\\Vectores03.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074F7C59-7F36-4DED-89F3-FADCA1E526DD}|Vectores03\\Vectores03.csproj|solutionrelative:vectores03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096842F-F0D1-4CF8-A76D-D18DE1D07702}|Vectores02\\Vectores02.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096842F-F0D1-4CF8-A76D-D18DE1D07702}|Vectores02\\Vectores02.csproj|solutionrelative:vectores02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABDD1B5-3129-43B8-A88A-C7DFBDCECEF8}|RepasoBucles\\RepasoBucles.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\repasobucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABDD1B5-3129-43B8-A88A-C7DFBDCECEF8}|RepasoBucles\\RepasoBucles.csproj|solutionrelative:repasobucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473727E1-D8D4-4093-B0C8-2E70581217E4}|Vectores01\\Vectores01.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473727E1-D8D4-4093-B0C8-2E70581217E4}|Vectores01\\Vectores01.csproj|solutionrelative:vectores01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B1AFD-8EDD-4B03-8DBB-0678C9CCBA7C}|Vectores07\\Vectores07.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B1AFD-8EDD-4B03-8DBB-0678C9CCBA7C}|Vectores07\\Vectores07.csproj|solutionrelative:vectores07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC134FB5-93C8-4782-BA8B-5E87E1573D9A}|Vectores06\\Vectores06.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\repasopoo_24\\rominacompara\\vectores06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC134FB5-93C8-4782-BA8B-5E87E1573D9A}|Vectores06\\Vectores06.csproj|solutionrelative:vectores06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +42,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores01\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores01\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores01\\Program.cs",
+              "RelativeToolTip": "Vectores01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:32:26.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -18,6 +65,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\RepasoBucles\\Program.cs",
+              "RelativeDocumentMoniker": "RepasoBucles\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\RepasoBucles\\Program.cs",
+              "RelativeToolTip": "RepasoBucles\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:25:11.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores07\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores07\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores07\\Program.cs",
+              "RelativeToolTip": "Vectores07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:34:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores06\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores06\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores06\\Program.cs",
+              "RelativeToolTip": "Vectores06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:34:29.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores05\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores05\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores05\\Program.cs",
+              "RelativeToolTip": "Vectores05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:34:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores04\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores04\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores04\\Program.cs",
+              "RelativeToolTip": "Vectores04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:33:43.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores03\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores03\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores03\\Program.cs",
+              "RelativeToolTip": "Vectores03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:33:10.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores02\\Program.cs",
+              "RelativeDocumentMoniker": "Vectores02\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\RepasoPOO_24\\RominaCompara\\Vectores02\\Program.cs",
+              "RelativeToolTip": "Vectores02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:32:46.709Z",
+              "EditorCaption": ""
             }
           ]
         }

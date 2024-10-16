@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteoAuto2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c194ad2d6c3cce4dcd4955ccc4c21c8fb684d27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d736ac6f833d6caf460d1f10186860b159b9abd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteoAuto2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteoAuto2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\bin\Debug\net8.0\Vectores02.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\bin\Debug\net8.0\Vectores02.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\bin\Debug\net8.0\Vectores02.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\bin\Debug\net8.0\Vectores02.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\bin\Debug\net8.0\Vectores02.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\refint\Vectores02.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\Vectores02.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\RepasoPOO_24\RominaCompara\Vectores02\obj\Debug\net8.0\ref\Vectores02.dll
